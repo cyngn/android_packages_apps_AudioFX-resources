@@ -19,7 +19,7 @@
     <string name="app_name" msgid="5717136097222561957">"AudioFX"</string>
     <string name="no_effects" msgid="5067916002004255814">"無法使用音效"</string>
     <string name="main_toggle_effects_title" msgid="612896145300512593">"音效"</string>
-    <string name="eq_dialog_title" msgid="2020244436368289652">"驍龍音效"</string>
+    <string name="eq_dialog_title" msgid="2020244436368289652">"AudioFX"</string>
     <string name="headset_plug" msgid="4505819850289423141">"插上耳機感受各種音效"</string>
     <string name="bass_boost_strength" msgid="882301530007752270">"低音加強"</string>
     <string name="virtualizer_strength" msgid="106561253469770096">"環繞音效"</string>
@@ -38,8 +38,6 @@
     <string name="jazz">爵士</string>
     <string name="pop">流行</string>
     <string name="rock">搖滾</string>
-    <string name="ci_extreme" msgid="1736938429763948084">電音</string>
-    <string name="user" msgid="3949460956502898057">自定義</string>
 
     <string name="none">無</string>
     <string name="smallroom">小房間</string>
