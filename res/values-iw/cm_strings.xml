@@ -18,7 +18,7 @@
 <resources>
   <string name="normal">רגיל</string>
   <string name="classical">קלאסי</string>
-  <string name="dance">ריקוד</string>
+  <string name="dance">דאנס</string>
   <string name="flat">שטוח</string>
   <string name="folk">פולק</string>
   <string name="heavy_metal">מטאל כבד</string>
@@ -26,7 +26,7 @@
   <string name="jazz">ג\'אז</string>
   <string name="pop">פופ</string>
   <string name="rock">רוק</string>
-  <string name="ci_extreme">אלקטרוניק</string>
+  <string name="ci_extreme">אלקטרוני</string>
   <string name="user">מותאם אישית</string>
   <string name="none">ללא</string>
   <string name="smallroom">חדר קטן</string>
