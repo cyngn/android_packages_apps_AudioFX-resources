@@ -16,32 +16,32 @@
      limitations under the License.
 -->
 <resources>
-  <string name="normal">Normale</string>
-  <string name="classical">Classica</string>
+  <string name="normal">Normal</string>
+  <string name="classical">Clasică</string>
   <string name="dance">Dance</string>
-  <string name="flat">Uniforme</string>
+  <string name="flat">Neutru</string>
   <string name="folk">Folk</string>
   <string name="heavy_metal">Heavy Metal</string>
   <string name="hip_hop">Hip Hop</string>
   <string name="jazz">Jazz</string>
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
-  <string name="ci_extreme">Elettronica</string>
-  <string name="user">Personalizzato</string>
-  <string name="none">Nessuno</string>
-  <string name="smallroom">Stanza piccola</string>
-  <string name="mediumroom">Stanza media</string>
-  <string name="largeroom">Stanza grande</string>
-  <string name="mediumhall">Sala media</string>
-  <string name="largehall">Sala grande</string>
-  <string name="plate">Piatto</string>
-  <string name="eq_custom">Per personalizzare, selezionare \'Personalizzato\'</string>
-  <string name="power_on_prompt">Premi il tasto di alimentazione in alto a destra.</string>
-  <string name="effect_unavalable_for_speaker">Effetto non disponibile per la modalità vivavoce.</string>
-  <string name="device_headset">Cuffie</string>
-  <string name="device_speaker">Altoparlante</string>
+  <string name="ci_extreme">Electronică</string>
+  <string name="user">Particularizat</string>
+  <string name="none">Nici unul</string>
+  <string name="smallroom">Cameră mică</string>
+  <string name="mediumroom">Cameră medie</string>
+  <string name="largeroom">Cameră mare</string>
+  <string name="mediumhall">Sală medie</string>
+  <string name="largehall">Sală mare</string>
+  <string name="plate">Spațiu întins</string>
+  <string name="eq_custom">Pentru a particulariza, selectează „Particularizat”</string>
+  <string name="power_on_prompt">Apasă butonul de alimentare din dreapta-sus.</string>
+  <string name="effect_unavalable_for_speaker">Efectul nu este disponibil pentru modul Difuzor.</string>
+  <string name="device_headset">Căști</string>
+  <string name="device_speaker">Difuzor</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
-  <string name="eq_preset">Equalizzatore predefinito</string>
-  <string name="reverb">Riverbero</string>
+  <string name="eq_preset">Preset egalizator</string>
+  <string name="reverb">Reverberație</string>
 </resources>
