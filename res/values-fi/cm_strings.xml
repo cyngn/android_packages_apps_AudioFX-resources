@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektroninen</string>
+  <string name="small_speakers">Pienet kaiuttimet</string>
   <string name="user">Muokattu</string>
   <string name="none">Ei mitään</string>
   <string name="smallroom">Pieni huone</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Kaiutin</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Langaton</string>
   <string name="eq_preset">Taajuuskorjaimen esiasetus</string>
   <string name="reverb">Kaikuefekti</string>
 </resources>

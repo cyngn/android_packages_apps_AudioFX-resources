@@ -27,6 +27,7 @@
   <string name="pop">流行</string>
   <string name="rock">摇滚</string>
   <string name="ci_extreme">电子</string>
+  <string name="small_speakers">小型喇叭</string>
   <string name="user">自定义</string>
   <string name="none">无</string>
   <string name="smallroom">小房间</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">扬声器​​​​</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">蓝牙</string>
+  <string name="device_wireless">无线</string>
   <string name="eq_preset">均衡器预设</string>
   <string name="reverb">混响</string>
 </resources>

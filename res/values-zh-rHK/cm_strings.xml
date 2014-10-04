@@ -27,6 +27,7 @@
   <string name="pop">流行音樂</string>
   <string name="rock">搖滾</string>
   <string name="ci_extreme">電子音樂</string>
+  <string name="small_speakers">小型喇叭</string>
   <string name="user">自訂</string>
   <string name="none">無</string>
   <string name="smallroom">小型房間</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">喇叭</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">藍牙</string>
+  <string name="device_wireless">無線</string>
   <string name="eq_preset">等化器預設</string>
   <string name="reverb">混響效果</string>
 </resources>

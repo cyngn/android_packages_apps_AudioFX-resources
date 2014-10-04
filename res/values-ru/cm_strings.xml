@@ -27,6 +27,7 @@
   <string name="pop">Поп</string>
   <string name="rock">Рок</string>
   <string name="ci_extreme">Электронная музыка</string>
+  <string name="small_speakers">Маленькие динамики</string>
   <string name="user">Пользовательские настр.</string>
   <string name="none">Нет</string>
   <string name="smallroom">Маленькая комната</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Динамик</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Беспров. устр.</string>
   <string name="eq_preset">Предуст. эквалайзера</string>
   <string name="reverb">Реверберация</string>
 </resources>

@@ -27,6 +27,7 @@
   <string name="pop">팝</string>
   <string name="rock">락</string>
   <string name="ci_extreme">일렉트로닉</string>
+  <string name="small_speakers">작은 스피커</string>
   <string name="user">사용자 정의</string>
   <string name="none">없음</string>
   <string name="smallroom">작은 방</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">스피커</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">블루투스</string>
+  <string name="device_wireless">무선</string>
   <string name="eq_preset">이퀄라이저 프리셋</string>
   <string name="reverb">리버브</string>
 </resources>

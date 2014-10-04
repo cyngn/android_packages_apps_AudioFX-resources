@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronisk</string>
+  <string name="small_speakers">Små højttalere</string>
   <string name="user">Brugerdefineret</string>
   <string name="none">Ingen</string>
   <string name="smallroom">Lille værelse</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Højttaler</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Trådløs</string>
   <string name="eq_preset">Equalizer-forudindstilling</string>
   <string name="reverb">Rumklang</string>
 </resources>

@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Electronic</string>
+  <string name="small_speakers">小さいスピーカー</string>
   <string name="user">カスタム</string>
   <string name="none">なし</string>
   <string name="smallroom">小さい部屋</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">スピーカー</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">ワイヤレス</string>
   <string name="eq_preset">イコライザープリセット</string>
   <string name="reverb">リバーブ</string>
 </resources>

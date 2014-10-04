@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Electrònica</string>
+  <string name="small_speakers">Altaveus petits</string>
   <string name="user">Personalitzat</string>
   <string name="none">Cap</string>
   <string name="smallroom">Habitació petita</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Altaveu</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Sense fils</string>
   <string name="eq_preset">Presintonia de l\'equalitzador</string>
   <string name="reverb">Reverberació</string>
 </resources>

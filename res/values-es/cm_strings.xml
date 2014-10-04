@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Electrónica</string>
+  <string name="small_speakers">Altavoces pequeños</string>
   <string name="user">Personalizado</string>
   <string name="none">Ninguno</string>
   <string name="smallroom">Habitación pequeña</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Altavoz</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Inalámbrico</string>
   <string name="eq_preset">Ecualizador preestablecido</string>
   <string name="reverb">Reverberación</string>
 </resources>

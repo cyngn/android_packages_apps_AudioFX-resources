@@ -27,6 +27,7 @@
   <string name="pop">පොප්</string>
   <string name="rock">රොක්</string>
   <string name="ci_extreme">ඉලෙක්ට්‍රොනික</string>
+  <string name="small_speakers">කුඩා ස්පීකර</string>
   <string name="user">රිසිවූ</string>
   <string name="none">කිසිවක් නැත</string>
   <string name="smallroom">කුඩා කාමරය</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">ස්පීකරය</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">බ්ලූටූත්</string>
+  <string name="device_wireless">රැහැන් රහිත</string>
   <string name="eq_preset">සමකරකයේ පෙරසැකසීම</string>
   <string name="reverb">ආඛ්‍යාතය</string>
 </resources>
