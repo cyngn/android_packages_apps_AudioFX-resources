@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronická hudba</string>
+  <string name="small_speakers">Malé reproduktory</string>
   <string name="user">Vlastné</string>
   <string name="none">Žiadny</string>
   <string name="smallroom">Malá miestnosť</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Reproduktor</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Bezdrôtové</string>
   <string name="eq_preset">Predvoľba ekvalizéra</string>
   <string name="reverb">Reverb</string>
 </resources>

@@ -27,6 +27,7 @@
   <string name="pop">פופ</string>
   <string name="rock">רוק</string>
   <string name="ci_extreme">אלקטרוני</string>
+  <string name="small_speakers">רמקולים קטנים</string>
   <string name="user">מותאם אישית</string>
   <string name="none">ללא</string>
   <string name="smallroom">חדר קטן</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">רמקול</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">אלחוטי</string>
   <string name="eq_preset">כיוון אקוולייזר</string>
   <string name="reverb">תהודה</string>
 </resources>

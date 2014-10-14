@@ -43,7 +43,7 @@
   <string name="device_speaker">スピーカー</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
-  <string name="device_wireless">ワイヤレス</string>
+  <string name="device_wireless">無線</string>
   <string name="eq_preset">イコライザープリセット</string>
   <string name="reverb">リバーブ</string>
 </resources>

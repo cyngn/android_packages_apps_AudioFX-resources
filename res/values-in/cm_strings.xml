@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronik</string>
+  <string name="small_speakers">Speaker kecil</string>
   <string name="user">Kustom</string>
   <string name="none">Tidak Ada</string>
   <string name="smallroom">Ruang kecil</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Speaker</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Nirkabel</string>
   <string name="eq_preset">Preset equalizer</string>
   <string name="reverb">Reverb</string>
 </resources>

@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rokk</string>
   <string name="ci_extreme">Elektrooniline</string>
+  <string name="small_speakers">Väiksed kõlarid</string>
   <string name="user">Kohandatud</string>
   <string name="none">Puudub</string>
   <string name="smallroom">Väike tuba</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Kõlar</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Juhtmeta</string>
   <string name="eq_preset">Ekvalaiseri eelsäte</string>
   <string name="reverb">Peegeldus</string>
 </resources>

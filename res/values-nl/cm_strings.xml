@@ -27,6 +27,7 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronisch</string>
+  <string name="small_speakers">Kleine luidsprekers</string>
   <string name="user">Aangepast</string>
   <string name="none">Geen</string>
   <string name="smallroom">Kleine ruimte</string>
@@ -42,6 +43,7 @@
   <string name="device_speaker">Luidspreker</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Draadloos</string>
   <string name="eq_preset">Equalizer-preset</string>
   <string name="reverb">Galm</string>
 </resources>
