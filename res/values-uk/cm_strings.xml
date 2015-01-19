@@ -36,7 +36,7 @@
   <string name="mediumhall">Середній зал</string>
   <string name="largehall">Великий зал</string>
   <string name="plate">Платівка</string>
-  <string name="eq_custom">Щоб налаштувати, виберіть \'Користувач\'</string>
+  <string name="eq_custom">Щоб налаштувати, виберіть «Користувач»</string>
   <string name="power_on_prompt">Натисніть кнопку живлення в правому верхньому куті.</string>
   <string name="effect_unavalable_for_speaker">Ефект не впливає на режим динаміка.</string>
   <string name="device_headset">Гарнітура</string>
