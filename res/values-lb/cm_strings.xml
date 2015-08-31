@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normal</string>
   <string name="classical">Klassesch</string>
   <string name="dance">Danzmusek</string>
@@ -28,7 +28,9 @@
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronesch</string>
   <string name="small_speakers">Kleng Boxen</string>
+  <string name="multimedia">Multimedia</string>
   <string name="user">Personaliséiert</string>
+  <string name="user_n">Personaliséiert <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Keen</string>
   <string name="smallroom">Klenge Raum</string>
   <string name="mediumroom">Mëttlere Raum</string>
@@ -36,14 +38,19 @@
   <string name="mediumhall">Mëttlere Sall</string>
   <string name="largehall">Grousse Sall</string>
   <string name="plate">Hallplack</string>
-  <string name="eq_custom">\"Personaliséiert\" wiele fir selwer anzestellen</string>
-  <string name="power_on_prompt">Aschaltknäppche riets uewen drécken.</string>
+  <string name="power_on_prompt">Uschaltknäppche riets uewen drécken.</string>
   <string name="effect_unavalable_for_speaker">Effekt am Lautsprecher-Modus net disponibel.</string>
   <string name="device_headset">Kopfhörer</string>
   <string name="device_speaker">Lautsprecher</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Ouni Kabel</string>
-  <string name="eq_preset">Equalizer-Virastellung</string>
   <string name="reverb">Halleffekt</string>
+  <string name="eq_preset">Equalizer-Virastellung</string>
+  <string name="devices">Apparater</string>
+  <string name="virtualizer">Virtualiséierung</string>
+  <string name="treble">Héichten</string>
+  <string name="bass">Bass</string>
+  <string name="rename">Ëmbenennen</string>
+  <string name="remove_custom_preset_warning_message">Bass du sécher, datt s du %1$s ewechhuele wëlls?</string>
 </resources>

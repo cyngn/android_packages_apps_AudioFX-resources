@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normaal</string>
   <string name="classical">Klassiek</string>
   <string name="dance">Dance</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">Middelgrote zaal</string>
   <string name="largehall">Grote zaal</string>
   <string name="plate">Lp</string>
-  <string name="eq_custom">Selecteer \'Aangepast\' om aan te passen</string>
   <string name="power_on_prompt">Druk op de aan/uit-knop rechtsboven.</string>
   <string name="effect_unavalable_for_speaker">Effect niet beschikbaar voor luidsprekermodus.</string>
   <string name="device_headset">Koptelefoon</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Draadloos</string>
-  <string name="eq_preset">Equalizer-preset</string>
   <string name="reverb">Galm</string>
+  <string name="eq_preset">Equalizer-preset</string>
 </resources>

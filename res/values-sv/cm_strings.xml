@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normal</string>
   <string name="classical">Klassisk</string>
   <string name="dance">Dance</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">Medelstor sal</string>
   <string name="largehall">Stor sal</string>
   <string name="plate">Plåt</string>
-  <string name="eq_custom">För att anpassa, välj \'Anpassad\'</string>
   <string name="power_on_prompt">Tryck på avstängningsknappen uppe till höger.</string>
   <string name="effect_unavalable_for_speaker">Effekten finns inte tillgänglig för högtalarläge.</string>
   <string name="device_headset">Hörlurar</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Trådlös</string>
-  <string name="eq_preset">Equalizerförval</string>
   <string name="reverb">Rumsklang</string>
+  <string name="eq_preset">Equalizerförval</string>
 </resources>
