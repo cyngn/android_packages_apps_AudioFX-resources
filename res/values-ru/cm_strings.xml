@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Стандартный</string>
   <string name="classical">Классика</string>
   <string name="dance">Танцевальная музыка</string>
@@ -28,7 +28,9 @@
   <string name="rock">Рок</string>
   <string name="ci_extreme">Электронная музыка</string>
   <string name="small_speakers">Маленькие динамики</string>
+  <string name="multimedia">Мультимедиа</string>
   <string name="user">Пользовательские настр.</string>
+  <string name="user_n">Пользоват. <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Нет</string>
   <string name="smallroom">Маленькая комната</string>
   <string name="mediumroom">Средняя комната</string>
@@ -36,7 +38,6 @@
   <string name="mediumhall">Средний зал</string>
   <string name="largehall">Большой зал</string>
   <string name="plate">Пластинка</string>
-  <string name="eq_custom">Для детальной настройки выберите «Пользовательские»</string>
   <string name="power_on_prompt">Нажмите выключатель в правом верхнем углу.</string>
   <string name="effect_unavalable_for_speaker">Эффект недоступен для динамиков.</string>
   <string name="device_headset">Наушники</string>
@@ -44,6 +45,12 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Беспров. устр.</string>
-  <string name="eq_preset">Предуст. эквалайзера</string>
   <string name="reverb">Реверберация</string>
+  <string name="eq_preset">Предуст. эквалайзера</string>
+  <string name="devices">Устройства</string>
+  <string name="virtualizer">Виртуализатор</string>
+  <string name="treble">Высокие</string>
+  <string name="bass">НЧ</string>
+  <string name="rename">Переименовать</string>
+  <string name="remove_custom_preset_warning_message">Вы действительно хотите удалить «%1$s»?</string>
 </resources>

@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Нормално</string>
   <string name="classical">Класика</string>
   <string name="dance">Денс</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">Средњи ходник</string>
   <string name="largehall">Велики ходник</string>
   <string name="plate">Плато</string>
-  <string name="eq_custom">Да прилагодиш, изабери \'Прилагођено\'</string>
   <string name="power_on_prompt">Притисни дугме за напајање горе-десно.</string>
   <string name="effect_unavalable_for_speaker">Ефекат није доступан за режим Звучника.</string>
   <string name="device_headset">Слушалице</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Wireless</string>
-  <string name="eq_preset">Еквилајзер унапред постављен</string>
   <string name="reverb">Reverb</string>
+  <string name="eq_preset">Еквилајзер унапред постављен</string>
 </resources>
