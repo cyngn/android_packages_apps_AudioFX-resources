@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normāls</string>
   <string name="classical">Klasika</string>
   <string name="dance">Dejas</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">Vidēja zāle</string>
   <string name="largehall">Liela zāle</string>
   <string name="plate">Plate</string>
-  <string name="eq_custom">Lai pielāgotu, izvēlieties \"Pielāgots\"</string>
   <string name="power_on_prompt">Nospiediet ieslēgšanas pogu augšējā labajā pusē.</string>
   <string name="effect_unavalable_for_speaker">Efekts nav pieejams skaļruņa režīmā.</string>
   <string name="device_headset">Austiņas</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Bezvadu</string>
-  <string name="eq_preset">Ekvalaizera pirmstatījumi</string>
   <string name="reverb">Atbalss</string>
+  <string name="eq_preset">Ekvalaizera pirmstatījumi</string>
 </resources>

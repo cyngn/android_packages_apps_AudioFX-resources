@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normaali</string>
   <string name="classical">Klassinen</string>
   <string name="dance">Tanssi</string>
@@ -28,7 +28,9 @@
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektroninen</string>
   <string name="small_speakers">Pienet kaiuttimet</string>
+  <string name="multimedia">Multimedia</string>
   <string name="user">Muokattu</string>
+  <string name="user_n">Mukautettu <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Ei mitään</string>
   <string name="smallroom">Pieni huone</string>
   <string name="mediumroom">Keskikokoinen huone</string>
@@ -36,7 +38,6 @@
   <string name="mediumhall">Keskikokoinen sali</string>
   <string name="largehall">Suuri sali</string>
   <string name="plate">Vinyyli</string>
-  <string name="eq_custom">Mukauttaaksesi asetuksia, valitse Muokattu</string>
   <string name="power_on_prompt">Paina virtanäppäintä oikeassa yläkulmassa.</string>
   <string name="effect_unavalable_for_speaker">Efekti ei käytettävissä kaiutintilassa.</string>
   <string name="device_headset">Kuulokkeet</string>
@@ -44,6 +45,12 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Langaton</string>
-  <string name="eq_preset">Taajuuskorjaimen esiasetus</string>
   <string name="reverb">Kaikuefekti</string>
+  <string name="eq_preset">Taajuuskorjaimen esiasetus</string>
+  <string name="devices">Laitteet</string>
+  <string name="virtualizer">Virtualizer</string>
+  <string name="treble">Diskantti</string>
+  <string name="bass">Basso</string>
+  <string name="rename">Nimeä uudelleen</string>
+  <string name="remove_custom_preset_warning_message">Haluatko varmasti poistaa asetusen %1$s?</string>
 </resources>

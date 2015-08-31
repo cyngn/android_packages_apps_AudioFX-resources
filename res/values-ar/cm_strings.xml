@@ -15,10 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="normal">طبيعي</string>
-  <string name="classical">كلاسيكي</string>
-  <string name="dance">رقص</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="flat">معتدل</string>
   <string name="folk">قَوم</string>
   <string name="heavy_metal">المعادن الثقيلة</string>
@@ -36,7 +33,6 @@
   <string name="mediumhall">قاعة متوسطة</string>
   <string name="largehall">قاعة كبيرة</string>
   <string name="plate">طبق</string>
-  <string name="eq_custom">لتخصيص، حدد \'مخصص\'</string>
   <string name="power_on_prompt">اضغط على زر الطاقة في الأعلى اليمين.</string>
   <string name="effect_unavalable_for_speaker">التأثيرات غير متوفر لي وضع مكبر الصوت.</string>
   <string name="device_headset">سماعات الأذن</string>
@@ -44,6 +40,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">لاسلكي</string>
-  <string name="eq_preset">التعادل مسبقا</string>
   <string name="reverb">تردد</string>
+  <string name="eq_preset">التعادل مسبقا</string>
 </resources>
