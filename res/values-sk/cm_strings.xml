@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normálne</string>
   <string name="classical">Klasická hudba</string>
   <string name="dance">Tanec</string>
@@ -28,7 +28,9 @@
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronická hudba</string>
   <string name="small_speakers">Malé reproduktory</string>
+  <string name="multimedia">Multimédiá</string>
   <string name="user">Vlastné</string>
+  <string name="user_n">Vlastné <xliff:g id="preset_num">%1$d </xliff:g></string>
   <string name="none">Žiadny</string>
   <string name="smallroom">Malá miestnosť</string>
   <string name="mediumroom">Stredná miestnosť</string>
@@ -36,14 +38,19 @@
   <string name="mediumhall">Stredná sála</string>
   <string name="largehall">Veľká sála</string>
   <string name="plate">Platňa</string>
-  <string name="eq_custom">Pre prispôsobenie vyberte \"Vlastné\"</string>
-  <string name="power_on_prompt">Stlačte tlačidlo napájania na hornej pravej strane.</string>
+  <string name="power_on_prompt">Stlačte prepínacie tlačidlo vpravo hore.</string>
   <string name="effect_unavalable_for_speaker">Efekt nie je dostupný pre režim reproduktora.</string>
   <string name="device_headset">Slúchadlá</string>
   <string name="device_speaker">Reproduktor</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Bezdrôtové</string>
-  <string name="eq_preset">Predvoľba ekvalizéra</string>
   <string name="reverb">Reverb</string>
+  <string name="eq_preset">Predvoľba ekvalizéra</string>
+  <string name="devices">Zariadenia</string>
+  <string name="virtualizer">Virtualizér</string>
+  <string name="treble">Výšky</string>
+  <string name="bass">Basy</string>
+  <string name="rename">Premenovať</string>
+  <string name="remove_custom_preset_warning_message">Naozaj chcete odstrániť %1$s?</string>
 </resources>

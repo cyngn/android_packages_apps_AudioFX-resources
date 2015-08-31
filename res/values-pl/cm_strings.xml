@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normalna</string>
   <string name="classical">Klasyczna</string>
   <string name="dance">Taneczna</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">Średnia sala</string>
   <string name="largehall">Duża sala</string>
   <string name="plate">Płyta gramofonowa</string>
-  <string name="eq_custom">Aby dostosować, wybierz \"Własne\"</string>
   <string name="power_on_prompt">Naciśnij przycisk zasilania w prawym górnym rogu.</string>
   <string name="effect_unavalable_for_speaker">Efekt nie jest dostępny dla Głośnika urządzenia.</string>
   <string name="device_headset">Słuchawki</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Bezprzewodowe</string>
-  <string name="eq_preset">Ustawienia korektora</string>
   <string name="reverb">Pogłos</string>
+  <string name="eq_preset">Ustawienia korektora</string>
 </resources>

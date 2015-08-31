@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normal</string>
   <string name="classical">Classical</string>
   <string name="dance">Dance</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">中くらいのホール</string>
   <string name="largehall">大きいホール</string>
   <string name="plate">プレート</string>
-  <string name="eq_custom">カスタマイズするには｢カスタム｣を選択してください</string>
   <string name="power_on_prompt">右上の電源ボタンを押してください</string>
   <string name="effect_unavalable_for_speaker">スピーカーモードでは効果は利用できません。</string>
   <string name="device_headset">ヘッドセット</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">ワイヤレス</string>
-  <string name="eq_preset">イコライザープリセット</string>
   <string name="reverb">リバーブ</string>
+  <string name="eq_preset">イコライザープリセット</string>
 </resources>

@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">ئاسایی</string>
   <string name="classical">كلاسیكی</string>
   <string name="dance">سه‌ما</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">هۆڵی بچوک</string>
   <string name="largehall">هۆڵی گەورە</string>
   <string name="plate">دەشت</string>
-  <string name="eq_custom">بۆ زیاتر پەنجە بنێ بە داواکراودا</string>
   <string name="power_on_prompt">پەنجە بنێ بە دوگمەی داخستندا</string>
   <string name="effect_unavalable_for_speaker">کاریگه‌ری ئاماده‌نییه‌ بۆ باری سپیکه‌ر.</string>
   <string name="device_headset">هێدفۆن</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">بلوتوس</string>
   <string name="device_wireless">بێتەل</string>
-  <string name="eq_preset">ئاماده‌کراوی یه‌کسانکه‌ری ده‌نگ</string>
   <string name="reverb">Reverb</string>
+  <string name="eq_preset">ئاماده‌کراوی یه‌کسانکه‌ری ده‌نگ</string>
 </resources>

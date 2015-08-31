@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normalus</string>
   <string name="classical">Klasikinis</string>
   <string name="dance">Šokių</string>
@@ -28,7 +28,9 @@
   <string name="rock">Rokas</string>
   <string name="ci_extreme">Elektroninis</string>
   <string name="small_speakers">Maži garsiakalbiai</string>
-  <string name="user">Individualus</string>
+  <string name="multimedia">Multimedija</string>
+  <string name="user">Priskirtas</string>
+  <string name="user_n">Priskirtas <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Joks</string>
   <string name="smallroom">Mažas kambarys</string>
   <string name="mediumroom">Vidutinio dydžio kambarys</string>
@@ -36,7 +38,6 @@
   <string name="mediumhall">Vidutinio dydžio salė</string>
   <string name="largehall">Didelė salė</string>
   <string name="plate">Plokštė</string>
-  <string name="eq_custom">Norėdami modifikuoti, pasirinkite „Individualus“</string>
   <string name="power_on_prompt">Paspauskite maitinimo mygtuką viršuje dešinėje.</string>
   <string name="effect_unavalable_for_speaker">Efektas negalimas garsiakalbio režime.</string>
   <string name="device_headset">Laisvų rankų įranga</string>
@@ -44,6 +45,12 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Bevielis</string>
-  <string name="eq_preset">Ekvalaizerio išankstiniai nustatymai</string>
   <string name="reverb">Aidas</string>
+  <string name="eq_preset">Ekvalaizerio išankstiniai nustatymai</string>
+  <string name="devices">Įrenginiai</string>
+  <string name="virtualizer">Virtualizacija</string>
+  <string name="treble">Aukšti dažniai</string>
+  <string name="bass">Žemi dažniai</string>
+  <string name="rename">Pervadinti</string>
+  <string name="remove_custom_preset_warning_message">Ar tikrai norite pašalinti %1$s?</string>
 </resources>

@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normalno</string>
   <string name="classical">Klasika</string>
   <string name="dance">Ples</string>
@@ -35,13 +35,12 @@
   <string name="mediumhall">Srednja dvorana</string>
   <string name="largehall">Velika dvorana</string>
   <string name="plate">Ploča</string>
-  <string name="eq_custom">Za prilagođavanje odaberite \'Prilagođeno\'</string>
   <string name="power_on_prompt">Pritisnite gumb za uključivanje gore desno.</string>
   <string name="effect_unavalable_for_speaker">Efekt nije dostupan za način Zvučnika.</string>
   <string name="device_headset">Slušalice</string>
   <string name="device_speaker">Zvučnik</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
-  <string name="eq_preset">Predlošci ekvilajzera</string>
   <string name="reverb">Odjek</string>
+  <string name="eq_preset">Predlošci ekvilajzera</string>
 </resources>

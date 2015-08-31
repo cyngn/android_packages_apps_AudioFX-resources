@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normál</string>
   <string name="classical">Klasszikus</string>
   <string name="dance">Dance</string>
@@ -28,7 +28,9 @@
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronikus</string>
   <string name="small_speakers">Kis hangszórók</string>
+  <string name="multimedia">Multimédia</string>
   <string name="user">Egyéni</string>
+  <string name="user_n">Egyéni <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Nincs</string>
   <string name="smallroom">Kis szoba</string>
   <string name="mediumroom">Közepes szoba</string>
@@ -36,7 +38,6 @@
   <string name="mediumhall">Közepes terem</string>
   <string name="largehall">Nagy terem</string>
   <string name="plate">Lemez</string>
-  <string name="eq_custom">Testreszabáshoz válassza az \"Egyéni\"-t</string>
   <string name="power_on_prompt">Nyomja meg a bekapcsológombot a jobb felső sarokban.</string>
   <string name="effect_unavalable_for_speaker">Hangszórót használva az effekt nem elérhető.</string>
   <string name="device_headset">Fejhallgató</string>
@@ -44,6 +45,12 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Vezeték nélküli</string>
-  <string name="eq_preset">Hangszín minták</string>
   <string name="reverb">Zengetés</string>
+  <string name="eq_preset">Hangszín minták</string>
+  <string name="devices">Eszközök</string>
+  <string name="virtualizer">Virtualizáló</string>
+  <string name="treble">Magas hang</string>
+  <string name="bass">Mélyhang</string>
+  <string name="rename">Átnevezés</string>
+  <string name="remove_custom_preset_warning_message">Biztosan el szeretné távolítani: %1$s?</string>
 </resources>

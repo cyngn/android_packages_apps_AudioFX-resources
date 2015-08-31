@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">正常</string>
   <string name="classical">古典音樂</string>
   <string name="dance">舞曲</string>
@@ -36,7 +36,6 @@
   <string name="mediumhall">中型大廳</string>
   <string name="largehall">寬敞大廳</string>
   <string name="plate">唱片</string>
-  <string name="eq_custom">若要自訂，選擇「自訂」</string>
   <string name="power_on_prompt">按下右上方的電源鍵。</string>
   <string name="effect_unavalable_for_speaker">效果不適用於擴音器模式。</string>
   <string name="device_headset">耳機</string>
@@ -44,6 +43,6 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">藍牙</string>
   <string name="device_wireless">無線裝置</string>
-  <string name="eq_preset">等化器預設</string>
   <string name="reverb">混響</string>
+  <string name="eq_preset">等化器預設</string>
 </resources>
