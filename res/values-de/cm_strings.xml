@@ -48,6 +48,7 @@
   <string name="reverb">Halleffekt</string>
   <string name="eq_preset">Equalizer-Voreinstellung</string>
   <string name="devices">Geräte</string>
+  <string name="virtualizer">Virtualisierung</string>
   <string name="treble">Höhen</string>
   <string name="bass">Bass</string>
   <string name="rename">Umbenennen</string>

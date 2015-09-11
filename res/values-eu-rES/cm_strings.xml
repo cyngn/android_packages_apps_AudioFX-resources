@@ -30,6 +30,7 @@
   <string name="small_speakers">Bozgorailu txikiak</string>
   <string name="multimedia">Multimedia</string>
   <string name="user">Pertsonalizatua</string>
+  <string name="user_n">Pertsonalizatua <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Bat ere ez</string>
   <string name="smallroom">Gela txikia</string>
   <string name="mediumroom">Gela ertaina</string>
@@ -47,5 +48,9 @@
   <string name="reverb">Erreberberazioa</string>
   <string name="eq_preset">Ekualizadore aurre-ezarpena</string>
   <string name="devices">Gailuak</string>
+  <string name="virtualizer">Birtualizatzailea</string>
+  <string name="treble">Altua</string>
+  <string name="bass">Baxua</string>
   <string name="rename">Aldatu izena</string>
+  <string name="remove_custom_preset_warning_message">Ziur %1$s kendu nahi duzula?</string>
 </resources>

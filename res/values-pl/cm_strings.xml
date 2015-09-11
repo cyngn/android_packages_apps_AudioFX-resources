@@ -28,7 +28,9 @@
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektroniczna</string>
   <string name="small_speakers">Małe głośniki</string>
+  <string name="multimedia">Multimedia</string>
   <string name="user">Własne</string>
+  <string name="user_n">Niestandardowy <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Brak</string>
   <string name="smallroom">Mały pokój</string>
   <string name="mediumroom">Średni pokój</string>
@@ -45,4 +47,10 @@
   <string name="device_wireless">Bezprzewodowe</string>
   <string name="reverb">Pogłos</string>
   <string name="eq_preset">Ustawienia korektora</string>
+  <string name="devices">Urządzenia</string>
+  <string name="virtualizer">Wirtualizacja</string>
+  <string name="treble">Sopran</string>
+  <string name="bass">Bass</string>
+  <string name="rename">Zmień nazwę</string>
+  <string name="remove_custom_preset_warning_message">Jesteś pewny, że chcesz usunąć %1$s?</string>
 </resources>
