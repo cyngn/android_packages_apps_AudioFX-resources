@@ -45,4 +45,7 @@
   <string name="device_wireless">無線裝置</string>
   <string name="reverb">混響</string>
   <string name="eq_preset">等化器預設</string>
+  <string name="devices">裝置</string>
+  <string name="rename">重新命名</string>
+  <string name="remove_custom_preset_warning_message">你確定要刪除 %1$s?</string>
 </resources>

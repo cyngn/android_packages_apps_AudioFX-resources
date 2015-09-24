@@ -28,7 +28,9 @@
   <string name="rock">ร็อค</string>
   <string name="ci_extreme">อิเล็กทรอนิกส์</string>
   <string name="small_speakers">ลำโพงเล็ก</string>
+  <string name="multimedia">มัลติมีเดีย</string>
   <string name="user">กำหนดเอง</string>
+  <string name="user_n">กำหนดเอง <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">ไม่มี</string>
   <string name="smallroom">ห้องขนาดเล็ก</string>
   <string name="mediumroom">ห้องขนาดกลาง</string>
@@ -45,4 +47,10 @@
   <string name="device_wireless">แบบไร้สาย</string>
   <string name="reverb">เสียงก้อง</string>
   <string name="eq_preset">ชุดรูปแบบปรับแต่งเสียง</string>
+  <string name="devices">อุปกรณ์</string>
+  <string name="virtualizer">บริการเอฟเฟกต์เสมือนจริง</string>
+  <string name="treble">Treble</string>
+  <string name="bass">Bass</string>
+  <string name="rename">เปลี่ยนชื่อ</string>
+  <string name="remove_custom_preset_warning_message">แน่ใจหรือไม่ว่าต้องการลบ %1$s</string>
 </resources>
