@@ -16,6 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="normal">طبيعي</string>
+  <string name="classical">كلاسيكي</string>
+  <string name="dance">رقص</string>
   <string name="flat">معتدل</string>
   <string name="folk">قَوم</string>
   <string name="heavy_metal">المعادن الثقيلة</string>
