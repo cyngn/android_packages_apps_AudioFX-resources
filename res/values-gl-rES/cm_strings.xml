@@ -20,6 +20,8 @@
   <string name="classical">Clásica</string>
   <string name="dance">Dance</string>
   <string name="flat">Plano</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
   <string name="jazz">Jazz</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Electrónica</string>

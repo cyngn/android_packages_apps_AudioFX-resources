@@ -30,6 +30,7 @@
   <string name="small_speakers">Kiçik səsucaldanlar</string>
   <string name="multimedia">Multimedia</string>
   <string name="user">Özəl</string>
+  <string name="user_n">Özəl <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Yoxdur</string>
   <string name="smallroom">Balaca otaq</string>
   <string name="mediumroom">Orta otaq</string>
@@ -43,9 +44,13 @@
   <string name="device_speaker">Səsucaldan</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Simsiz</string>
   <string name="reverb">Əks-səda</string>
   <string name="eq_preset">Səs tarazlayıcı hazır tənzimləmələri</string>
   <string name="devices">Cihazlar</string>
+  <string name="virtualizer">Əyaniləşdirici</string>
+  <string name="treble">Zil</string>
   <string name="bass">Bass</string>
   <string name="rename">Yenidən adlandır</string>
+  <string name="remove_custom_preset_warning_message">%1$s öntənzimləməsini çıxartmaq istəyirsiniz?</string>
 </resources>
