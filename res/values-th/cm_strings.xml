@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="normal">ปกติ</string>
   <string name="multimedia">มัลติมีเดีย</string>
   <string name="user_n">กำหนดเอง <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="devices">อุปกรณ์</string>
