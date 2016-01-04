@@ -18,12 +18,16 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="normal">Normal</string>
   <string name="classical">Clásica</string>
+  <string name="dance">Dance</string>
+  <string name="flat">Plana</string>
+  <string name="folk">Folk</string>
   <string name="heavy_metal">Heavy Metal</string>
   <string name="hip_hop">Hip-Hop</string>
   <string name="jazz">Jazz</string>
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Electrónica</string>
+  <string name="small_speakers">Altavoces pequeños</string>
   <string name="multimedia">Multimedia</string>
   <string name="user">Personalizado</string>
   <string name="user_n"><xliff:g id="preset_num">%1$d</xliff:g> personalizado</string>
@@ -48,4 +52,5 @@
   <string name="treble">Agudos</string>
   <string name="bass">Bajos</string>
   <string name="rename">Cambiar el nombre</string>
+  <string name="remove_custom_preset_warning_message">¿Estás seguro que deseas eliminar %1$s?</string>
 </resources>
