@@ -28,7 +28,9 @@
   <string name="rock">روك</string>
   <string name="ci_extreme">إلكتروني</string>
   <string name="small_speakers">سماعات صغيرة</string>
+  <string name="multimedia">وسائط متعددة</string>
   <string name="user">مخصص</string>
+  <string name="user_n">مخصص<xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">بلا</string>
   <string name="smallroom">غرفة صغيرة</string>
   <string name="mediumroom">غرفة متوسطة</string>
@@ -45,4 +47,10 @@
   <string name="device_wireless">لاسلكي</string>
   <string name="reverb">الصدى</string>
   <string name="eq_preset">التعيين المسبق للمعادل</string>
+  <string name="devices">أجهزة</string>
+  <string name="virtualizer">أداة الظاهرية</string>
+  <string name="treble">الطنين الثلاثي</string>
+  <string name="bass">الجهير</string>
+  <string name="rename">إعادة تسمية</string>
+  <string name="remove_custom_preset_warning_message">هل تريد بالتأكيد إزالة %1$s؟</string>
 </resources>
