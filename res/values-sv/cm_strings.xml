@@ -30,6 +30,7 @@
   <string name="small_speakers">Små högtalare</string>
   <string name="multimedia">Multimedia</string>
   <string name="user">Anpassad</string>
+  <string name="user_n">Anpassade <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Ingen</string>
   <string name="smallroom">Litet rum</string>
   <string name="mediumroom">Medelstort rum</string>
@@ -50,4 +51,5 @@
   <string name="treble">Diskant</string>
   <string name="bass">Bas</string>
   <string name="rename">Byt namn</string>
+  <string name="remove_custom_preset_warning_message">Är du säker du vill ta bort %1$s?</string>
 </resources>

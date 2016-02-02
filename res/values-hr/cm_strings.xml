@@ -27,7 +27,10 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Elektronska</string>
+  <string name="small_speakers">Mali zvučnici</string>
+  <string name="multimedia">Multimedija</string>
   <string name="user">Prilagođeno</string>
+  <string name="user_n">Prilagođeni <xliff:g id="preset_num">%1$d </xliff:g></string>
   <string name="none">Ništa</string>
   <string name="smallroom">Mala soba</string>
   <string name="mediumroom">Srednja soba</string>
@@ -41,6 +44,13 @@
   <string name="device_speaker">Zvučnik</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
+  <string name="device_wireless">Bežično</string>
   <string name="reverb">Odjek</string>
   <string name="eq_preset">Predlošci ekvilajzera</string>
+  <string name="devices">Uređaji</string>
+  <string name="virtualizer">Virtualizer</string>
+  <string name="treble">Visoki tonovi</string>
+  <string name="bass">Bas gitara</string>
+  <string name="rename">Preimenuj</string>
+  <string name="remove_custom_preset_warning_message">Jeste li sigurni da želite ukloniti %1$s?</string>
 </resources>
