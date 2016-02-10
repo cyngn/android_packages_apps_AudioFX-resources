@@ -48,6 +48,7 @@
   <string name="reverb">Rumsklang</string>
   <string name="eq_preset">Equalizerförval</string>
   <string name="devices">Enheter</string>
+  <string name="virtualizer">Virtualiserare</string>
   <string name="treble">Diskant</string>
   <string name="bass">Bas</string>
   <string name="rename">Byt namn</string>
