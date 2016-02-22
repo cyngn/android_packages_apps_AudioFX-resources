@@ -52,5 +52,5 @@
   <string name="treble">Высокие</string>
   <string name="bass">НЧ</string>
   <string name="rename">Переименовать</string>
-  <string name="remove_custom_preset_warning_message">Вы действительно хотите удалить «%1$s»?</string>
+  <string name="remove_custom_preset_warning_message">Действительно удалить «%1$s»?</string>
 </resources>
