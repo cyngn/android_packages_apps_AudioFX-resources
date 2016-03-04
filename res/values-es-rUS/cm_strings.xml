@@ -45,4 +45,6 @@
   <string name="device_wireless">Inalámbrico</string>
   <string name="reverb">Reverberación</string>
   <string name="eq_preset">Ecualizador preestablecido</string>
+  <string name="rename">Cambiar nombre</string>
+  <string name="remove_custom_preset_warning_message">¿Estás seguro de que deseas quitar %1$s?</string>
 </resources>

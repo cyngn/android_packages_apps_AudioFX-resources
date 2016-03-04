@@ -29,7 +29,7 @@
   <string name="ci_extreme">Электронная музыка</string>
   <string name="small_speakers">Маленькие динамики</string>
   <string name="multimedia">Мультимедиа</string>
-  <string name="user">Пользовательские настр.</string>
+  <string name="user">Пользовательские</string>
   <string name="user_n">Пользоват. <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Нет</string>
   <string name="smallroom">Маленькая комната</string>
@@ -46,7 +46,7 @@
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Беспров. устр.</string>
   <string name="reverb">Реверберация</string>
-  <string name="eq_preset">Предуст. эквалайзера</string>
+  <string name="eq_preset">Предустановки</string>
   <string name="devices">Устройства</string>
   <string name="virtualizer">Виртуализатор</string>
   <string name="treble">Высокие</string>
