@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default">AudioFX ez da zure lehenetsitako efektuen kontrol panela.</string>
+  <string name="snack_bar_not_default_set">Lehenetsi</string>
+  <string name="snack_bar_not_default_not_now">Orain ez</string>
+  <string name="qs_tile_content_description">Piztu/amatatu AudioFX uneko gailuan</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Arrunta</string>
   <string name="classical">Klasikoa</string>
   <string name="dance">Dance</string>
@@ -45,6 +50,7 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Haririk gabe</string>
+  <string name="device_line_out">Linea irteera</string>
   <string name="reverb">Erreberberazioa</string>
   <string name="eq_preset">Ekualizadore aurre-ezarpena</string>
   <string name="devices">Gailuak</string>
@@ -53,4 +59,5 @@
   <string name="bass">Baxua</string>
   <string name="rename">Aldatu izena</string>
   <string name="remove_custom_preset_warning_message">Ziur %1$s kendu nahi duzula?</string>
+  <string name="powered_by">Oinarria:</string>
 </resources>
