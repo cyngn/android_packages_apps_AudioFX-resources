@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default">AudioFX není výchozí ovládací panel pro změnu audio efektů.</string>
+  <string name="snack_bar_not_default_set">Nastavit výchozí</string>
+  <string name="snack_bar_not_default_not_now">Teď ne</string>
+  <string name="qs_tile_content_description">Přepnout stav AudioFX</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Normalní</string>
   <string name="classical">Klasická hudba</string>
   <string name="dance">Taneční</string>
@@ -45,6 +50,7 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Bezdrátové</string>
+  <string name="device_line_out">Linkový výstup</string>
   <string name="reverb">Dozvuku</string>
   <string name="eq_preset">Předvolba ekvalizéru</string>
   <string name="devices">Zařízení</string>
@@ -53,4 +59,5 @@
   <string name="bass">Basy</string>
   <string name="rename">Přejmenovat</string>
   <string name="remove_custom_preset_warning_message">Opravdu chcete odstranit %1$s?</string>
+  <string name="powered_by">Využívá služby</string>
 </resources>
