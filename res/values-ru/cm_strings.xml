@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default">AudioFX не является вашей панелью управления звуковыми эффектами по умолчанию.</string>
+  <string name="snack_bar_not_default_set">Уст. по умолч.</string>
+  <string name="snack_bar_not_default_not_now">Не сейчас</string>
+  <string name="qs_tile_content_description">Включить или выключить AudioFX на этом устройстве</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Стандартный</string>
   <string name="classical">Классика</string>
   <string name="dance">Танцевальная музыка</string>
@@ -45,6 +50,7 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Беспров. устр.</string>
+  <string name="device_line_out">Линейный выход</string>
   <string name="reverb">Реверберация</string>
   <string name="eq_preset">Предустановки</string>
   <string name="devices">Устройства</string>
@@ -53,4 +59,5 @@
   <string name="bass">НЧ</string>
   <string name="rename">Переименовать</string>
   <string name="remove_custom_preset_warning_message">Действительно удалить «%1$s»?</string>
+  <string name="powered_by">Технологии</string>
 </resources>
