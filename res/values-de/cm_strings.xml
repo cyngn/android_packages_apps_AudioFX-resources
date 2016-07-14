@@ -16,6 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default_set">Als Standard festlegen</string>
+  <string name="snack_bar_not_default_not_now">Nicht jetzt</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Normal</string>
   <string name="classical">Klassik</string>
   <string name="dance">Dance</string>
@@ -45,6 +48,7 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Drahtlos</string>
+  <string name="device_line_out">Line-Ausgang</string>
   <string name="reverb">Halleffekt</string>
   <string name="eq_preset">Equalizer-Voreinstellung</string>
   <string name="devices">Geräte</string>
@@ -53,4 +57,5 @@
   <string name="bass">Bass</string>
   <string name="rename">Umbenennen</string>
   <string name="remove_custom_preset_warning_message">Sind Sie sicher, dass Sie %1$s entfernen möchten?</string>
+  <string name="powered_by">Zur Verfügung gestellt von</string>
 </resources>
