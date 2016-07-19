@@ -16,7 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default">AudioFX не е по подразбиране за ефекти на контролния панел.</string>
+  <string name="snack_bar_not_default_set">Задай по подразбиране</string>
   <string name="snack_bar_not_default_not_now">Не сега</string>
+  <string name="qs_tile_content_description">Превключване на AudioFX за включване/изключване за текущото устройство</string>
   <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Нормално</string>
   <string name="classical">Класическа</string>
@@ -47,6 +50,7 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Безжичен</string>
+  <string name="device_line_out">Линеен изход</string>
   <string name="reverb">Ехо</string>
   <string name="eq_preset">Настройки на еквалайзера</string>
   <string name="devices">Устройства</string>
