@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default">AudioFX הוא אינו לוח בקרת האפקטים המוגדר כברירת המחדל שלך.</string>
+  <string name="snack_bar_not_default_set">הגדר כברירת מחדל</string>
+  <string name="snack_bar_not_default_not_now">לא עכשיו</string>
+  <string name="qs_tile_content_description">הפעל או כבה את AudioFX למכשיר הנוכחי</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">רגיל</string>
   <string name="classical">קלאסי</string>
   <string name="dance">דאנס</string>
@@ -45,6 +50,7 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">אלחוטי</string>
+  <string name="device_line_out">יציאת שמע</string>
   <string name="reverb">תהודה</string>
   <string name="eq_preset">אקולייזר קבוע מראש</string>
   <string name="devices">מכשירים</string>
@@ -53,4 +59,5 @@
   <string name="bass">בס</string>
   <string name="rename">שנה שם</string>
   <string name="remove_custom_preset_warning_message">בטוח שברצונך להסיר את %1$s?</string>
+  <string name="powered_by">מופעל באמצעות</string>
 </resources>
