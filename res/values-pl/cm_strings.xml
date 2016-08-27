@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default">AudioFX nie jest domyślnym panelem sterowania efektami.</string>
+  <string name="snack_bar_not_default_set">Ustaw jako domyślny</string>
+  <string name="snack_bar_not_default_not_now">Nie teraz</string>
+  <string name="qs_tile_content_description">Przełącznik włączania/wyłączania AudioFX dla bieżącego urządzenia</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Normalna</string>
   <string name="classical">Klasyczna</string>
   <string name="dance">Taneczna</string>
@@ -45,6 +50,7 @@
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Bezprzewodowe</string>
+  <string name="device_line_out">Wyjście analogowe</string>
   <string name="reverb">Pogłos</string>
   <string name="eq_preset">Ustawienia korektora</string>
   <string name="devices">Urządzenia</string>
@@ -53,4 +59,5 @@
   <string name="bass">Bass</string>
   <string name="rename">Zmień nazwę</string>
   <string name="remove_custom_preset_warning_message">Jesteś pewny, że chcesz usunąć %1$s?</string>
+  <string name="powered_by">wspierane przez</string>
 </resources>
