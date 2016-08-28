@@ -16,11 +16,16 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="snack_bar_not_default">AudioFX bukanlah bawaan efek kontrol panel anda.</string>
+  <string name="snack_bar_not_default_set">Setel bawaan</string>
+  <string name="snack_bar_not_default_not_now">Tidak sekarang</string>
+  <string name="qs_tile_content_description">Hidup/matikan AudioFX untuk perangkat saat ini</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Normal</string>
   <string name="classical">Klasik</string>
   <string name="dance">Dansa</string>
   <string name="flat">Datar</string>
-  <string name="folk">Rakyat</string>
+  <string name="folk">Folk</string>
   <string name="heavy_metal">Heavy Metal</string>
   <string name="hip_hop">Hip Hop</string>
   <string name="jazz">Jazz</string>
@@ -29,22 +34,23 @@
   <string name="ci_extreme">Elektronik</string>
   <string name="small_speakers">Speaker kecil</string>
   <string name="multimedia">Multimedia</string>
-  <string name="user">Khusus</string>
-  <string name="user_n"><xliff:g id="preset_num">%1$d</xliff:g> khusus</string>
+  <string name="user">Kustom</string>
+  <string name="user_n">Kustom <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Tidak Ada</string>
-  <string name="smallroom">Ruang kecil</string>
-  <string name="mediumroom">Ruang sedang</string>
-  <string name="largeroom">Ruang besar</string>
+  <string name="smallroom">Ruangan kecil</string>
+  <string name="mediumroom">Ruangan sedang</string>
+  <string name="largeroom">Ruangan besar</string>
   <string name="mediumhall">Aula sedang</string>
   <string name="largehall">Aula besar</string>
   <string name="plate">Plate</string>
   <string name="power_on_prompt">Tekan tombol power pada bagian kanan atas.</string>
-  <string name="effect_unavalable_for_speaker">Efek tidak tersedia untuk modus Speaker.</string>
-  <string name="device_headset">Set kepala</string>
+  <string name="effect_unavalable_for_speaker">Efek tidak tersedia untuk mode Speaker.</string>
+  <string name="device_headset">Headset</string>
   <string name="device_speaker">Speaker</string>
   <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Nirkabel</string>
+  <string name="device_line_out">Line keluar</string>
   <string name="reverb">Reverb</string>
   <string name="eq_preset">Preset equalizer</string>
   <string name="devices">Perangkat</string>
@@ -53,4 +59,5 @@
   <string name="bass">Bass</string>
   <string name="rename">Ubah Nama</string>
   <string name="remove_custom_preset_warning_message">Apakah Anda yakin Anda ingin menghapus %1$s?</string>
+  <string name="powered_by">didukung oleh</string>
 </resources>
